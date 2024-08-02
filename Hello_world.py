@@ -1,1 +1,6 @@
 print("Hello World!!")
+print("If you are reading this.")
+print("I want to thank you for taking the time to check out what im doing.")
+print("I have always been told just showing you understand something is the best foot in the door you can have.")
+print("Well that is what im trying to do here.")
+print("Signed BSE")
